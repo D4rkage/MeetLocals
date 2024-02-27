@@ -1,0 +1,7 @@
+{
+  "name": "MeetLocals",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
